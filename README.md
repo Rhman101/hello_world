@@ -7,5 +7,3 @@ some new remote changes
 
 
 some new local changes
-
-issue574
