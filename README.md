@@ -10,3 +10,5 @@ some new local changes
 
 
 new changes made for development
+
+fixed some new issue
