@@ -1,3 +1,3 @@
 # hello_world
 
-Remove all this. 
+Here are the changes I think we should make. 
